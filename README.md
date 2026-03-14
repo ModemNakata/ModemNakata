@@ -7,3 +7,13 @@ I'm passionate about systems programming and building high-performance web servi
 I have several years of experience in Python and am currently learning Rust. I also leverage AI tools for research and learning.
 
 I care deeply about internet privacy and digital sovereignty. I like various cryptocurrencies, especially Monero. I believe in the power of free and open-source software to protect user freedom.
+
+### Tech I use / have experience with
+
+- **Web servers:** Nginx, HAProxy
+- **Rust web frameworks:** Actix, Axum
+- **ORM:** SeaORM
+- **Storage:** rust-s3, PostgreSQL, SQLite
+- **Containerization:** Docker
+
+I'm always eager to learn more and collaborate with like-minded developers. Wishing prosperity to the open source community!
