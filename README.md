@@ -19,4 +19,4 @@ I care deeply about internet privacy and digital sovereignty. I like various cry
 And many-many other things...
 
 
-I'm always eager to learn more and collaborate with like-minded developers. Wishing prosperity to the open source community!
+I'm always eager to learn more and collaborate. Wishing prosperity to the open source community!
