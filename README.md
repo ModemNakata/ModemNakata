@@ -15,6 +15,7 @@ I care deeply about internet privacy and digital sovereignty. I like various cry
 - **ORM:** SeaORM
 - **Storage:** rust-s3, PostgreSQL, SQLite
 - **Containerization:** Docker
+
 And many-many other things...
 
 
